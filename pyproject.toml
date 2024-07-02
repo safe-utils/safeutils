@@ -162,7 +162,7 @@ test = []
 "Bug Reports" = "https://safeutils.com/contact"
 "Funding" = "https://safeutils.com/pricing"
 "Say Thanks!" = "https://safeutils.com/review"
-"Source" = "https://github.com/safe-utils/.github"
+"Source" = "https://github.com/safe-utils/safeutils"
 
 # The following would provide a command line executable called `sample`
 # which executes the function `main` from this package when invoked.

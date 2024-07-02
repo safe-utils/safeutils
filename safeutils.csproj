@@ -8,7 +8,7 @@
     <Copyright>Copyright (c) Wiktor Plaga 2024</Copyright>
     <Company>safeutils</Company>
     <PackageProjectUrl>https://safeutils.com</PackageProjectUrl>
-    <RepositoryUrl>https://github.com/safe-utils/.github</RepositoryUrl>
+    <RepositoryUrl>https://github.com/safe-utils/safeutils</RepositoryUrl>
     <PackageIcon>icon.png</PackageIcon>
     <PackageReadmeFile>README.md</PackageReadmeFile>
     <PackageTags>convert;generate;decode;encode;parse;preview;debug;inspect;json;yaml;csv;toml;xml;time;color</PackageTags>

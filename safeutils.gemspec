@@ -21,7 +21,7 @@ Gem::Specification.new do |spec|
       "changelog_uri"     => "https://safeutils.com/releases/#{SafeUtils::VERSION.gsub(".", "_")}",
       "documentation_uri" => 'https://safeutils.com/releases',
       "mailing_list_uri"  => 'https://safeutils.com/news',
-      "source_code_uri"   => 'https://github.com/safe-utils/.github',
+      "source_code_uri"   => 'https://github.com/safe-utils/safeutils',
       # "rubygems_mfa_required" => "true",
   }
   spec.required_ruby_version = '>= 3.0.0'

@@ -8,7 +8,7 @@
     "url": "https://safeutils.com",
     "email": "support@safeutils.com"
   },
-  "repository": "https://github.com/safe-utils/.github",
+  "repository": "https://github.com/safe-utils/safeutils",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
